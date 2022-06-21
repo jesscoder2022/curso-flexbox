@@ -66,7 +66,7 @@ O curso será composto por aulas teóricas, práticas, exercícios e no final te
 **PROJETO-FINAL-FINALIZADO**
 
 ## OUTROS LINKS
-<a href="https://docs.google.com/presentation/d/1T-nJ6YMU66i1eJwMSviSmwvvV3WM0Vo3hOjGfYLto3o/edit?usp=sharing">Slide/Apresentação das Aulas DAS AULAS</a>
+<a href="https://docs.google.com/presentation/d/1T-nJ6YMU66i1eJwMSviSmwvvV3WM0Vo3hOjGfYLto3o/edit?usp=sharing">Slide/Apresentação das Aulas</a>
 
 <a href="https://flexboxfroggy.com/#p.br">Treine o uso de Flexbox com o Froggy</a>
 
