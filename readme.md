@@ -65,5 +65,12 @@ O curso será composto por aulas teóricas, práticas, exercícios e no final te
 * O projeto final **com o flexbox** se encontra na pasta
 **PROJETO-FINAL-FINALIZADO**
 
-## Treine o uso de Flexbox com o Froggy
-<a href="https://flexboxfroggy.com/#p.br">Flexbox Froggy</a>
+## OUTROS LINKS
+<a href="https://docs.google.com/presentation/d/1T-nJ6YMU66i1eJwMSviSmwvvV3WM0Vo3hOjGfYLto3o/edit?usp=sharing">Slide/Apresentação das Aulas DAS AULAS</a>
+
+<a href="https://flexboxfroggy.com/#p.br">Treine o uso de Flexbox com o Froggy</a>
+
+<a href="https://determined-saga-efc.notion.site/Os-Melhores-Livros-Para-Programadores-972d33be6c6e4a82963cf8731c6132a4">Os Melhores Livros Para Programadores</a>
+
+<a href="https://determined-saga-efc.notion.site/Livros-Para-Se-Tornar-Uma-Pessoa-Melhor-6ed6f44d485846f5886f26b83fda23a6">Livros Para Se Tornar Uma Pessoa Melhor</a>
+
