@@ -34,9 +34,9 @@ O curso será composto por aulas teóricas, práticas, exercícios e no final te
 
 
 ## AULAS PRÁTICAS
-* Todos os exercicios feito nas aulas práticas se encontram na pasta **AULA.PRATICAS**
+* Todos os exercicios feito nas aulas práticas se encontram na pasta **AULAS-PRATICAS**
 
-## Exercícios
+## EXERCÍCIOS
 * Todos os exercícios devem ser resolvidos com flexbox
 * Não é necessário criar classes id e afins para resolução dos exercícios
 * Nos exercícios vai ser necessário usar mais de uma propriedade do modulo flexbox
@@ -44,7 +44,7 @@ O curso será composto por aulas teóricas, práticas, exercícios e no final te
 * Os exercícios precisam estar iguais as resoluções
 * Só veja as resoluções depois que terminar de ver os exercícios
 * Você encontra todos os exercícios na pasta **EXERCICIOS**
-* Você entra a resolução de todos os exercícios na pasta **EXERCICIO.RESOLUCAO**
+* Você entra a resolução de todos os exercícios na pasta **EXERCICIOS-RESOLUCAO**
 
 1) Para a resolver o Exercício 1 você deve ter assistido até a aula 09
 
@@ -61,9 +61,9 @@ O curso será composto por aulas teóricas, práticas, exercícios e no final te
 7) Para a resolver o Exercício 7 você deve ter assistido até a aula 19
 
 ## PROJETO FINAL
-* O projeto final **sem o flexbox** se encontra na pasta **PROJET.FINAL**
+* O projeto final **sem o flexbox** se encontra na pasta **PROJETO-FINAL**
 * O projeto final **com o flexbox** se encontra na pasta
-**PROJET.FINA.FINALIZADO**
+**PROJETO-FINAL-FINALIZADO**
 
 ## Treine o uso de Flexbox com o Froggy
 <a href="https://flexboxfroggy.com/#p.br">Flexbox Froggy</a>
