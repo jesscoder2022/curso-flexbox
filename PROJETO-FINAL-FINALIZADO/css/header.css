@@ -1,0 +1,10 @@
+/* ------------ HEADER ---------------- */
+.header {
+    background-color: var(--white-900);
+    color: var(--blue-900);
+    padding: 1rem 0;
+}
+
+.header__logo {
+    height: 80px;
+}

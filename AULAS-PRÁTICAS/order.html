@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order</title>
+</head>
+<body>
+    <div class="container">
+        <div class="item itemA">A</div>
+        <div class="item itemB">B</div>
+        <div class="item itemC">C</div>
+        <div class="item itemD">D</div>
+    </div>     
+    <style>      
+        .container {
+            display: flex;
+            flex-direction: column;
+            width: 400px;
+            height: 400px;
+            padding: 20px;
+            background-color: #000;
+        }
+        .item {            
+            width: 50px;
+            height: 50px;
+        }
+        /* -5 -4 -3 -2 -1 0 1 2 3 4 5*/
+        .itemA {
+            order: 5;
+            background-color: red;
+        }
+        .itemB {
+            order: -1;
+            background-color: blue;
+        }
+        .itemC {
+            order: -2;
+            background-color: blueviolet;
+        }
+        .itemD {
+            order: 0;
+            background-color: yellow;
+            color: #000;
+        }
+    </style>
+</body>
+</html>

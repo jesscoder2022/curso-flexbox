@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>align-self</title>
+</head>
+<body>
+    <div class="container">
+        <div class="item itemA">A</div>
+        <div class="item itemB">B</div>
+        <div class="item itemC">C</div>
+        <div class="item itemD">D</div>
+    </div>     
+    <style>      
+        .container {
+            display: flex;
+            width: 400px;
+            height: 400px;
+            padding: 20px;
+            background-color: #000;
+        }
+        .item {            
+            width: 50px;
+            height: 50px;
+        }    
+        .itemA {  
+            /* align-self: flex-end;   
+            align-self: flex-start;   
+            align-self: center;   
+            align-self: stretch;  */
+            /* height: auto;   */
+            align-self: baseline;
+            background-color: red;
+        }
+        .itemB {  
+            background-color: blue;
+        }
+        .itemC {
+            background-color: blueviolet;
+        }
+        .itemD {  
+            background-color: yellow;
+            color: #000;
+        }
+    </style>
+</body>
+</html>

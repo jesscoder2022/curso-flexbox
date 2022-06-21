@@ -1,0 +1,70 @@
+/* ------------ HEADER ---------------- */
+.header__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 2rem;
+}
+
+.navigation {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* ------------ ABOUT ---------------- */
+.about__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem
+}
+.about__buttons {
+    display: flex;
+    justify-content: center;
+    column-gap: 2rem;
+}
+
+/* ------------ PHOTOS ---------------- */
+.photos__container {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 2rem;
+    justify-content: space-between;
+}
+
+.photos__item--primary {
+    order: -1 
+}
+/* ------------ SERVICES ---------------- */
+.services__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.services__item {
+    flex-basis: 250px;
+    /* flex-grow: 2;
+    flex-shrink: 1; */
+}
+
+
+/* ------------ CONTACT ---------------- */
+.contact__container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+}
+
+/* ------------ DESKTOP ---------------- */
+@media (min-width: 768px) {
+    .header__container {
+        justify-content: space-between;
+    }
+    .about__container {
+        flex-wrap: nowrap;
+    }
+}
+/* ------------ MAIN ---------------- */

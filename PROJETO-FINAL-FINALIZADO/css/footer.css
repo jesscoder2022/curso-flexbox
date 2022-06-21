@@ -1,0 +1,10 @@
+.footer {
+    background-color: var(--brown-900);
+    color: var(--white-900);
+    padding: 1rem 0;
+    text-align: center;
+}
+.footer__link {
+    color: var(--blue-900);
+    font-weight: bold;
+}

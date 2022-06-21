@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex-flow</title>
+</head>
+<body>
+    <div class="container">
+        <div class="item itemA">A</div>
+        <div class="item itemB">B</div>
+        <div class="item itemC">C</div>
+        <div class="item itemD">D</div>
+    </div>     
+    <style>      
+        .container {
+            display: flex;           
+            flex-flow: row wrap;
+/*flex-flow: flex-direction flex-wrap*/
+            width: 200px;
+            padding: 20px;
+            background-color: #000;
+        }
+        .item {            
+            width: 100px;
+            height: 100px;
+        }
+        .itemA {
+            background-color: red;
+        }
+        .itemB {
+            background-color: blue;
+        }
+        .itemC {
+            background-color: blueviolet;
+        }
+        .itemD {
+            background-color: yellow;
+            color: #000;
+        }
+    </style>
+</body>
+</html>
